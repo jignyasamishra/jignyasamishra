@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a full stack web Developer(MERN) with skills in figma and designing. I was shortlisted as Microsoft Engage Mentee in year 2022</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jignyasamishra" alt="jignyasamishra" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/jignyasamishra" target="blank"><img src="https://img.shields.io/twitter/follow/jignyasamishra?logo=twitter&style=for-the-badge" alt="jignyasamishra" /></a> </p>
 
