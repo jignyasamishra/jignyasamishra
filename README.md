@@ -1,4 +1,4 @@
-![logo](https://github.com/jignyasamishra/jignyasamishra/blob/main/Frame%201.png)
+
 
 # 💫 About Me:
 I am a full stack web Developer(MERN) with skills in figma and designing. I was shortlisted as Microsoft Engage Mentee in year 2022
