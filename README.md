@@ -1,5 +1,5 @@
 # 📜 Hey there, I'm Jignyasa Mishra!
-I'm an enthusiastic DevOps Engineer in the making, passionate about automating everything and making the development process smoother and more efficient
+I'm an enthusiastic DevOps Engineer, passionate about automating everything and making the development process smoother and more efficient
 
 
 
